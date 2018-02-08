@@ -1,7 +1,12 @@
+title: Long Meadow
+
 name: Long Meadow
 
 description: Long Meadow. GDPR Peace of Mind
 
 url: http://longmeadow.ie/
+
+github:
+  is_project_page: false
 
 theme: jekyll-theme-cayman

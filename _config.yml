@@ -1,12 +1,19 @@
-title: Long Meadow
+title: Data Analytics and Data Protection Expertise
 
 name: Long Meadow
 
-description: GDPR Peace of Mind
+author: Micahel O'Keeffe
+
+lang: english
+
+description: GDPR Peace of Mind and Data Analyics ,Cork ,Ireland
 
 url: http://longmeadow.ie/
 
 github:
   is_project_page: false
+
+plugins:
+  - jekyll-seo-tag
 
 theme: jekyll-theme-cayman

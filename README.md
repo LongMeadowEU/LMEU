@@ -1,2 +1,2 @@
 # LMEU
-Proposed Website for LongMeadow
+This is the live website for long meadow

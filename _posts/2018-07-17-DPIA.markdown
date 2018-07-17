@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test"
-date:   2018-07-17 12:08:01 +0100
-categories: jekyll update
----
-
-This is some test data which is useful to understand what is happening with the website.

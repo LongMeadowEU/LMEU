@@ -15,3 +15,5 @@ E-Mail us directly at michael@longmeadow.ie
 ## Linkedin
 
 [Contact me through my linked in profile ](https://www.linkedin.com/in/michael-o-keeffe-EU-IE)
+
+_Long Meadow is a trading name of Farrell O'Keeffe Ltd, Registered in Ireland, Reg 474164_

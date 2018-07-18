@@ -4,7 +4,7 @@ title: Our Services
 permalink: /services/
 ---
 
-We offer a full suite of support services to ensure that you remain GDPR compliant. Click on the links below for more details.
+Long Meadow offers a full suite of support services to ensure that you remain GDPR compliant. Click on the links below for more details.
 
 * [Audit Your Processes for GDPR Compliance](../services/audit)
 * [Ongoing GDPR Support](../services/ongoing)

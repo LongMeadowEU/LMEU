@@ -6,7 +6,7 @@ layout: home
 list_title: Recent Articles
 ---
 ![alt text]({{ site.logo }} "Long Meadow")
-# Data Analytics and Data Protection Expertise
+# Data Protection and Data Analytics Expertise
 At Long Meadow we understand that being a Data Controller or Data Processor can be a complex and demanding business. We're not worried about complexity. With over 30 years in IT in a range of sectors we can help you no matter how complex your business needs are. Lean on our experience working with Multinationals, SMEs and indigenous Startups.
 
 We're here to help you address the requirements under the Data Protection Legislation. We're not a legal firm, we are in the business of processes and technology and we are offering you a clear and independant advice in getting your business GDPR compliant.

@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  "Test"
-date:   2018-07-17 12:08:01 +0100
-categories: jekyll update
+title:  "What is a DPIA"
+date:   2018-07-10 10:08:01 +0100
+categories: DPIA GDPR
 ---
 
-This is some test data which is useful to understand what is happening with the website.
+You may have encounted the letters DPIA in the context of GDPR and wondered what it means.
+
+DPIA means a *Data Protection Impact Assesment*. This is a term used the Data Protection Regulation or GDPR. The Irish Data Protection Commission has some detail on this on their [website](http://gdprandyou.ie/data-protection-impact-assessments-dpia/#what-is-a-data-protection-impact-assessment) including the following:
+
+> A Data Protection Impact Assessment (DPIA) describes a process designed to identify risks arising out of the processing of personal data and to minimise these risks as far and as early as possible. DPIAs are important tools for negating risk, and for demonstrating compliance with the GDPR.
+
+As pointed out above when you undertake a process change, by introducing new technology or by processing personal data in a different way it useful to show that you have considered the risks with handling that data.

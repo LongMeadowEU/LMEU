@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Protection
-permalink: dataprotection
+permalink: /dataprotection/
 ---
 
 # Practicle Support for GDPR

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IS Projects
-permalink: isprojects
+permalink: /isprojects/
 ---
 
 Using information systems and software development has given many business a competetive advantage.

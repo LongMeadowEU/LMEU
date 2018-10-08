@@ -13,3 +13,6 @@ Long Meadow offers a full suite of support services to ensure that you remain GD
 * [Training In Data Protection](../services/training)
 * [Data Controller Audit](../services/dcAudit)
 * [Data Analytics in a Secure Environment](../services/dataAnalytics)
+* [Moving to the Cloud](../services/cloud)
+* [Secure Systems](..//services/securesystems)
+* [Automating Your Processes](..//services/automating)

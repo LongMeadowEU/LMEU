@@ -30,7 +30,8 @@ plugins:
 header_pages:
   - Contact.md
   - about.md
-  - OurService.md
+  - dataprotection.md
+  - isprojects.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Data Protection
 permalink: dataprotection
 ---
 

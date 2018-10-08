@@ -4,8 +4,6 @@ title: Data Protection
 permalink: /dataprotection/
 ---
 
-# Practicle Support for GDPR
-
 GDPR needs ongoing support and attention. It cannot be expected that a small firm can employ someone full-time.
 
 We offer a range of services which can just slot into your buiness. Giving you the freedom to concentrate on your business and customers.

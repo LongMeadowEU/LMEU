@@ -4,9 +4,9 @@ title: IS Projects
 permalink: /isprojects/
 ---
 
-Using information systems and software development has given many business a competetive advantage.
+Using information systems and software development has given many business a competitive advantage.
 
-But many business cannot get off the starting blocks on what they need to do because they simple do not have the people.
+But many business cannot get off the starting blocks on what they need to do because they simply do not have the people.
 
 We have decades of experience that you can use. We don't have a product to sell. We're not going to send you a graduate. We're looking for a solution to your problem - not to show off our latest cools technical solution.
 

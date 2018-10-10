@@ -7,7 +7,7 @@ list_title: Recent Articles
 ---
 ![alt text]({{ site.logo }} "Long Meadow")
 
-# Integrating Information Systems into your business
+# Integrating Information Systems into your Business
 
 Integrating your business into Information Systems that help you get on with your core business can be difficult. A system which works well with your processes and gives you a competitive advantage can be difficult to find.
 

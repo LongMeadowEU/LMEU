@@ -3,7 +3,7 @@ layout: page
 permalink: /services/automating
 ---
 
-# Automating Existing Manaual or Older System
+# Automating Existing Manual or Updating an Older System
 
 Are you getting the most out of your employees? Are they repeating manual tasks on a regular basis? Are they bridging a gap between your IT systems or someone else's?
 

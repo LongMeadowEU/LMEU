@@ -20,5 +20,6 @@ We have expertise in analysing data, large and small to help you unlock opportun
 
 We offer services in two areas:
 
-See [IS Projects Services](../sprojects/) page for more details on how create IS systems that fit your business.
+See [IS Projects Services](../isprojects/) page for more details on how create IS systems that fit your business.
+
 See [Data Protection Services](../dataprotection/) page for more details on what we offer.

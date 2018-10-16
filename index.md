@@ -7,7 +7,7 @@ list_title: Recent Articles
 ---
 ![alt text]({{ site.logo }} "Long Meadow")
 
-# Integrating Information Systems into your Business
+# Data Engineering - Bringing Data Together in Your Business
 
 Integrating your business into Information Systems that help you get on with your core business can be difficult. A system which works well with your processes and gives you a competitive advantage can be difficult to find.
 
@@ -23,6 +23,6 @@ We have expertise in analysing data, large and small to help you unlock opportun
 
 We offer services in two areas:
 
-See [Information Systems Projects](../isprojects/) page for more details on how we create IS systems that fit your business.
+See [Data Engineering](../dataengineering/) page for more details on how we create IS systems that fit your business.
 
 See [Data Protection Services](../dataprotection/) page for more details on how we can address your data protection needs.

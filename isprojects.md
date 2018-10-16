@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Information System Projects for Business Processes
-permalink: /isprojects/
+title: Data Engineering
+permalink: /dataengineering/
 ---
 
 Using information systems and software development has given many businesses a competitive advantage.

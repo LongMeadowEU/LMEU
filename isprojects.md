@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Engineering
-permalink: /dataengineering/
+title: Managing Your Data
+permalink: /datamanagement/
 ---
 
 Using information systems and software development has given many businesses a competitive advantage.

@@ -1,12 +1,11 @@
-
-
-
 ---
 layout: page
 permalink: /privacy
+jsarr:
+- cookieAccept.js
+categories: Javascript
 ---
 
-{% include cookieAccept.js %}
 
 # Privacy Statement
 

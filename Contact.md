@@ -10,7 +10,7 @@ Call Michael Now at +353 86 8154466
 
 ## By E-Mail
 
-E-Mail us directly at michael@longmeadow.ie
+E-Mail us directly at [info@longmeadow.ie](mailto:info@longmeadow.ie)
 
 ## Linkedin
 

@@ -3,18 +3,15 @@ layout: page
 title: Data Protection
 permalink: /dataprotection/
 ---
+Being compliant with Data Protection Legislation such as GDPR may seem overwhelming. You need practical direction on how to address requirements. We focus in on how you do business and offer impartial clear advice on how to move forward.  
 
-GDPR needs ongoing support and attention. It cannot be expected that a small firm can employ someone full-time.
+Giving you the freedom to concentrate on your business and customers.
 
-We offer a range of services which can just slot into your buiness. Giving you the freedom to concentrate on your business and customers.
+E-mail us at [dataprotection@longmeadow.ie](mailto:dataprotection@longmeadow.ie) if are interested in more information on these services.
 
-[Contact us](../contact/) if are interested in more information on these services.
-
-* [Audit Your Processes for GDPR Compliance](../services/audit)
-* [Ongoing GDPR Support](../services/ongoing)
-* [EU Based Services for Multinational Companies with EU Customers](../services/eubase)s
+* [Data Protection Officer Service](../services/dpoServices)
+* [EU Based Services for Multinational Companies with EU Customers](../services/eubase)
 * [Data Breach and Data Incident Support](../services/databreach)
-* [Training In Data Protection](../services/training)
 * [Data Controller Audit](../services/dcAudit)
 
 [<- Back To Our Web Page](../.)

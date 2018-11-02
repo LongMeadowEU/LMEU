@@ -1,9 +1,6 @@
 ---
 layout: page
 permalink: /privacy
-jsarr:
-- cookieAccept.js
-categories: Javascript
 ---
 
 

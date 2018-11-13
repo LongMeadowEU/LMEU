@@ -12,6 +12,6 @@ E-mail us at [dataprotection@longmeadow.ie](mailto:dataprotection@longmeadow.ie)
 * [Data Protection Officer Service](../services/dpoServices)
 * [EU Based Services for Multinational Companies with EU Customers](../services/eubase)
 * [Data Breach and Data Incident Support](../services/databreach)
-* [Data Controller Audit](../services/dcAudit)
+* [Data Processor Audit](../services/dcAudit)
 
 [<- Back To Our Web Page](../.)

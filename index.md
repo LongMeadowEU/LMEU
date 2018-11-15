@@ -20,3 +20,5 @@ See [Software Development and Data Management](../softwareDevelopment/) page for
 We're here to help you address the requirements under the Data Protection Legislation, GDPR in particular. We are in the business of processes and technology and we are offering you clear and independent advice in keeping your business GDPR compliant.
 
 See [Data Protection Services](../dataprotection/) page for more details on how we can address your data protection needs.
+
+See our [privacy statement](../privacy).

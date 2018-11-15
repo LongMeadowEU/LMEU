@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Long Meadow
+title: Long Meadow, Cork, Ireland
 logo: /assets/img/logoBasic2Small.png
 email: michael@longmeadow.ie
-description: Data Protection and Data Management Expertise.
+description: Software Development, Data Management and GDPR Expertise in Ireland.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://longmeadow.ie/" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,8 +30,9 @@ plugins:
 header_pages:
   - Contact.md
   - about.md
-  - dataprotection.md
   - isprojects.md
+  - dataprotection.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

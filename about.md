@@ -12,6 +12,6 @@ He is a veteran of over 30 years in industry working mainly for multinationals i
 
 In recent years he has worked with The Insight Centre for Data Analytics at University College, Cork. This role involved taking research being undertaken at the University in the area of Data Analytics and Data Modelling and applying it to solving problems in industry.
 
-Michael set up Long Meadow to work with companies to ensure that the storage and handling of data is compliant with Data Protection legislation and in particular the GDPR.
+Michael set up Long Meadow to work with companies to ensure that software development works for companies and the storage and handling of data is compliant with Data Protection legislation and in particular the GDPR.
 
 _Long Meadow is a trading name of Farrell O'Keeffe Ltd, Registered in Ireland, Reg 474164_

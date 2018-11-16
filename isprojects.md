@@ -19,4 +19,4 @@ Email us at [datamanagement@longmeadow.ie](mailto:datamanagement@longmeadow.ie) 
 
 [<- Back To Our Web Page](../.)
 
- if are interested in more information on these services.
+ Please [Contact us](../contact/) if are interested in more information on these services.

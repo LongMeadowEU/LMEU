@@ -15,7 +15,7 @@ Many processes in some companies are undertaken still with pen and paper and oft
 
 We have a range of tools at out disposal which can be applied to automate a small or large process.
 
-[Contact us](../contact/) if are interested in more information on these services.
+Please [Contact us](../contact/) if are interested in more information on these services.
 
 
 [<- Back To Our Web Page](../.)

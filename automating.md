@@ -13,7 +13,7 @@ Information Systems are a key part business now and many companies in many secto
 
 Many processes in some companies are undertaken still with pen and paper and often require a particular person to be there to get the job done. Consider if it were possible to free up these people and automate the process. How could you apply their experience and knowledge better?
 
-We have a range of tools at out disposal which can be applied to automate a small or large process.
+We have a range of tools at our disposal which can be applied to automate a small or large process.
 
 Please [Contact us](../contact/) if are interested in more information on these services.
 

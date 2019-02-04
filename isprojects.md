@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Data Analytics and Data Mangement
-permalink: /analytics/
+title: Software Development and Data Management
+permalink: /development/
 ---
 
-Using information systems and software systems has given many companies a competitive advantage. Business have achieved great insights into their customers and processes by working with data they have already collected.
+We are familiar with the most common database products out there and can ensure that they are working for you. Our approach is to consider software and database in the context of your business needs and we ensure that it fulfils those needs.
 
-But many businesses cannot get off the starting blocks on what they need to do because they simply do not have the people.
+We appreciate that understanding your business if key to ensuring the software is appropriate to you needs.
 
-We are familiar with modern machine learning techniques to help you model your data and develop reliable forecasts of what will happen next - giving you a head start on your competition.
+We have a depth and range of experience which means we are familiar with technologies new and old.
+
+You can see the range databases and languages we have used on our [software](../services/software) page.
 
 Email us at [datamanagement@longmeadow.ie](mailto:datamanagement@longmeadw.ie) or  [contact](../contact/) Michael if are interested in more information on these services.
 
-* [Reviewing your Data for Machine Learning and Artificial Intelligence](../services/dataReview)
+* [Software Development](../services/software)
 * [Automating and Maintaining Your Processes](../services/automating)
 * [Secure Data Systems](../services/securesystems)
-* [Data Analytics in a Secure Environment](../services/dataAnalytics)
-* [Moving to the Cloud](../services/cloud)
+* [Reviewing your Data for Machine Learning and Artificial Intelligence](../services/dataReview)
 
 [<- Back To Our Web Page](../.)
 

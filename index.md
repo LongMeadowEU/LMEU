@@ -7,13 +7,13 @@ list_title: Recent Articles
 ---
 ![alt text]({{ site.logo }} "Long Meadow")
 
-# Data Analytics and Data Mangement
+# Software Development and Data Management
 
 The data in your company is crucial to your business - no matter what business you are in. Collecting, storing, analysing and retaining data, whether it is large or small is the business we are in.
 
-We pride ourselves on our balance of technical knowledge, data analytics and data protection expertise. We have experince and knowledge of a range of Machine Learning and Artifical Itelligence tools and techniques which can find answers in your data. And if the data is personal data, rest assured that we will advise you on a solution which considers your requirements under GDPR.
+We offer a range of software development services which can develop and enhance the features of your software and ensure that it is working for your business. We can look at your existing Databases and Software Tools and ensure that fit into your business, are easy to use and are secure.
 
-See [Data Analytics and Data Mangement](../analytics/) page for more details on how we build and maintain IT systems that fit your business.
+See [Software Development and Data Management](../development/) page for more details on how we build and maintain IT systems that fit your business.
 
 # Data Protection
 

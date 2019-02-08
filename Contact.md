@@ -6,17 +6,19 @@ permalink: /contact/
 
 See our [privacy statement](../privacy).
 
-<figure class="video_container">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYJwH8V_bljldGQlCBB-ghQSo8kETgCezjzJuqUTuOLC2B7w/viewform?embedded=true" width="640" height="1073" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</figure>
-
 ## By Phone
 
-Call Michael Now at +353 86 8154466
+Call Michael Now at (021) 234 0169 or from outside Ireland +353 21 234 0169
 
 ## By E-Mail
 
 E-Mail us directly at [info@longmeadow.ie](mailto:info@longmeadow.ie)
+
+## Complete our contact form.
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYJwH8V_bljldGQlCBB-ghQSo8kETgCezjzJuqUTuOLC2B7w/viewform?embedded=true" width="640" height="1073" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</figure>
 
 ## Linkedin
 

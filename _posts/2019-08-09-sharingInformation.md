@@ -20,4 +20,4 @@ In my work there was no question of sending any personal information any other w
 
 These days it's worth slowing down a little. Stop and think before you press send. Is there anything in this message that is personal about you or anyone else? Does the receiver really need it all?  Why are you using ‘reply all'? Can you just call whoever needs the information?
 
-When it comes to GDPR, email is one of the weakest links. And remember there was a time when it wasn't there.
+When it comes to GDPR, email is one of the weakest links. And remember, there was a time when it wasn't there.

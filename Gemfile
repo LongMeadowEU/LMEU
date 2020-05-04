@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "rubyzip", ">= 1.2.2"
+gem "rubyzip", ">= 1.3.0"
 gem "jekyll", ">= 3.7.4"
 gem "nokogiri", ">= 1.10.8"
 

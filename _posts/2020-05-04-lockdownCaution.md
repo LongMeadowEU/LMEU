@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Personal Information when Working Remotly"
+title:  "Using Personal Information when Working Remotely"
 date:   2020-05-04 16:15:00 +0100
 categories: Information,GDPR
 ---

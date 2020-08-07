@@ -8,7 +8,7 @@ See our [privacy statement](../privacy).
 
 ## By Phone
 
-Call Michael Now at (021) 234 0169 or from outside Ireland +353 21 234 0169
+Call Michael Now at (021) 212 9983 or from outside Ireland +353 21 212 9983
 
 ## By E-Mail
 
